@@ -1,1 +1,1 @@
-# magento-2-extensions
+# Magento 2 Extensions
