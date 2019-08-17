@@ -3,3 +3,4 @@
 - <a href="https://marketplace.magento.com/magestall-newsletterpopup.html" title="Newsletter Popup">Newsletter Popup</a>
 - <a href="https://marketplace.magento.com/magestall-quickview.html" title="Product Quick View">Product Quick View</a>
 - <a href="https://marketplace.magento.com/magestall-magento2-product-navigation.html" title="Product Navigation">Product Navigation</a>
+- <a href="https://marketplace.magento.com/magestall-testimonials.html" title="Testimonials">Testimonials</a>
