@@ -5,3 +5,6 @@
 - <a href="https://marketplace.magento.com/magestall-magento2-product-navigation.html" title="Product Navigation">Product Navigation</a>
 - <a href="https://marketplace.magento.com/magestall-testimonials.html" title="Testimonials">Testimonials</a>
 - <a href="https://marketplace.magento.com/magestall-productinquiry.html" title="Product Inquiry">Product Inquiry</a>
+- <a href="https://marketplace.magento.com/magestall-updateemail.html" title="Update Order Email">Update Order Email</a>
+- <a href="https://marketplace.magento.com/magestall-applycouponlink.html" title="Apply Coupon Link">Apply Coupon Link</a>
+- <a href="https://marketplace.magento.com/magestall-sizechart.html" title="Product Size Chart">Product Size Chart</a>
